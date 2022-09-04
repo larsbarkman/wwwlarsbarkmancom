@@ -4,6 +4,8 @@ title = "Thoughts and Reflections on Enterprise and Software Engineering"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 
+enableRobotsTXT = true
+
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
