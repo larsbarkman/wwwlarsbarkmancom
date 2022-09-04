@@ -1,15 +1,21 @@
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+/drafts
 
-# Test binary, built with `go test -c`
-*.test
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
 
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
+# Temporary lock file while building
+/.hugo_build.lock
 
-# Dependency directories (remove the comment below to include it)
-# vendor/
+# Desktop Services Store
+.DS_Store
+
+# Other
+node_modules
+.idea

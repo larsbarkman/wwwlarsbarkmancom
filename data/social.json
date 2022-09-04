@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/larsbarkman",
+      "image": "images/social/twitter.svg"
+    },    
+    {
+      "name": "github",
+      "url": "https://github.com/larsbarkman",
+      "image": "images/social/github.svg"
+    }, 
+    {
+      "name": "discord",
+      "url": "https://discord.gg/HCkwbHnhfU",
+      "image": "images/social/discord.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/larsbarkman/",
+      "image": "images/social/linkedin.svg"
+    }    
+  ]
+}
