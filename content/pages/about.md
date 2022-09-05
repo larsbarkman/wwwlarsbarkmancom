@@ -3,6 +3,7 @@ title: 'About'
 description: 'About'
 date: 2022-08-31
 image: images/profile_picture.webp
+alt: Image of Lars Barkman
 menu:
   main:
     name: "About"
