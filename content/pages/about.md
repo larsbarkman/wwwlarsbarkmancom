@@ -1,6 +1,7 @@
 ---
 title: 'About'
 description: 'About'
+date: 2022-08-31
 image: images/profile_picture.webp
 menu:
   main:
