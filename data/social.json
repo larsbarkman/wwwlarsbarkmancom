@@ -19,6 +19,11 @@
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/larsbarkman/",
       "image": "images/social/linkedin.svg"
-    }    
+    },
+    {
+      "name": "Rss feed",
+      "url": "/index.xml",
+      "image": "images/social/rss.svg"
+    }
   ]
 }
