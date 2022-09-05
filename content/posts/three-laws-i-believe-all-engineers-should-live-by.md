@@ -1,12 +1,12 @@
 ---
 title: Three Laws I Believe All Engineers Should Live By
 date: 2022-09-02
-description: 'There are some laws that are more fundamental than others and in this post I describe what I believe are the three most important laws that an engineer should live by in their professional life.'
+description: 'There are some laws that are more fundamental than others and in this post I describe what I believe are the three most important laws an engineer should live by in their professional life.'
 image: images/trent-erwin-UgA3Xvi3SkA-unsplash.webp
 ---
 *Photo by [Trent Erwin](https://unsplash.com/@tjerwin) on [Unsplash](https://unsplash.com)*
   
-**There are some laws that are more fundamental than others and in this post I describe what I believe are the three most important laws that an engineer should live by in their professional life.**
+**There are some laws that are more fundamental than others and in this post I describe what I believe are the three most important laws an engineer should live by in their professional life.**
 
 The three laws are **Gall's law**, **Conway's law** and **Boyd's law**, I will go through them in order and explain my view on them.
 

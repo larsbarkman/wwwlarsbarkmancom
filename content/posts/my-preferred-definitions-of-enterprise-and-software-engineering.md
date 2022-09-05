@@ -1,12 +1,12 @@
 ---
 title: My Preferred Definitions of Enterprise and Software Engineering
 date: 2022-08-31
-description: 'Words have meaning and when organized in proper grammatical structures, that meaning is transmitted to provide communication. When words no longer hold to their meaning, then communication is hampered and misunderstandings arise. I therefore think it is important that I give my preferred definitions of Enterprise and Software Engineering before we get to my thoughts and reflections.'
+description: 'Words have meaning and when organized in proper grammatical structures, that meaning is transmitted to provide communication. When words no longer hold to their meaning, then communication is hampered and misunderstandings arise. I therefore think it is important that I give my preferred definitions of Enterprise and Software Engineering before we get into my thoughts and reflections.'
 image: images/sean-pollock-PhYq704ffdA-unsplash.webp
 ---
 *Photo by [Sean Pollock](https://unsplash.com/@seanpollock) on [Unsplash](https://unsplash.com)*
 
-**Words have meaning and when organized in proper grammatical structures, that meaning is transmitted to provide communication. When words no longer hold to their meaning, then communication is hampered and misunderstandings arise. I therefore think it is important that I give my preferred definitions of Enterprise and Software Engineering before we get to my thoughts and reflections.**
+**Words have meaning and when organized in proper grammatical structures, that meaning is transmitted to provide communication. When words no longer hold to their meaning, then communication is hampered and misunderstandings arise. I therefore think it is important that I give my preferred definitions of Enterprise and Software Engineering before we get into my thoughts and reflections.**
 
 # First, Let's Define Each Word Separately
 ## Enterprise
