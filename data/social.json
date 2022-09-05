@@ -1,27 +1,27 @@
 {
   "links": [
     {
-      "name": "twitter",
+      "name": "Twitter",
       "url": "https://twitter.com/larsbarkman",
       "image": "images/social/twitter.svg"
     },    
     {
-      "name": "github",
+      "name": "GitHub",
       "url": "https://github.com/larsbarkman",
       "image": "images/social/github.svg"
     }, 
     {
-      "name": "discord",
+      "name": "Discord",
       "url": "https://discord.gg/HCkwbHnhfU",
       "image": "images/social/discord.svg"
     },
     {
-      "name": "linkedin",
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/larsbarkman/",
       "image": "images/social/linkedin.svg"
     },
     {
-      "name": "Rss feed",
+      "name": "RSS feed",
       "url": "/index.xml",
       "image": "images/social/rss.svg"
     }
