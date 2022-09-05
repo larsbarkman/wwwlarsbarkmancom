@@ -3,6 +3,7 @@ title: My Use of The Word "Engineer"
 date: 2022-09-01
 description: 'There are so many roles in an enterprise, and in different organizations the same role can mean different things. I therefore decided somewhere along the way to make a generalization...'
 image: images/thisisengineering-raeng-DbLlKd8u2Rw-unsplash.webp
+alt: Image of a woman drawing on a whiteboard
 ---
 *Photo by [ThisisEngineering RAEng](https://unsplash.com/@thisisengineering) on [Unsplash](https://unsplash.com)*
 

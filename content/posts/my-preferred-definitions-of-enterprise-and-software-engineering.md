@@ -3,6 +3,7 @@ title: My Preferred Definitions of Enterprise and Software Engineering
 date: 2022-08-31
 description: 'Words have meaning and when organized in proper grammatical structures, that meaning is transmitted to provide communication. When words no longer hold to their meaning, then communication is hampered and misunderstandings arise. I therefore think it is important that I give my preferred definitions of Enterprise and Software Engineering before we get into my thoughts and reflections.'
 image: images/sean-pollock-PhYq704ffdA-unsplash.webp
+alt: Image of skyscrapers
 ---
 *Photo by [Sean Pollock](https://unsplash.com/@seanpollock) on [Unsplash](https://unsplash.com)*
 
